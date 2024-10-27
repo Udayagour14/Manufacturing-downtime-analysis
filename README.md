@@ -1,8 +1,14 @@
 # Manufacturing-downtime-analysis
+![image](https://github.com/user-attachments/assets/3c8be19f-6dfd-445c-99bb-b02e0526282b)
+ Having a line downtime data's				
+![image](https://github.com/user-attachments/assets/19a331d0-5b75-476c-8f3c-e1e27fc85faa)
+
 Productivity &amp; downtime analysis for a production line.
 ### calculate the efficiency for a production line and break it down by operator.
 Create a new "Batch time" column in the "Line Productivity" tab that calculates the minutes between the "Start time" and "End time".
 Create another new "Min batch time" column by looking up the value from the "Products" tab.
+![image](https://github.com/user-attachments/assets/5ac3c698-99ec-4039-9dd1-a29e046da23e)
+
 ![image](https://github.com/user-attachments/assets/0e62cd2e-388f-408f-bfa3-f56bb3068a93)
 
 Calculate the "Efficiency" (sum of "Min batch time" / sum of "Batch time") for each operator.
