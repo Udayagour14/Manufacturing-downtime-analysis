@@ -11,6 +11,11 @@ Dennis	63%
 Mac	61%
 Grand Total	64%
 ![image](https://github.com/user-attachments/assets/1fcef8ea-2c37-4e12-8e71-32bd31a5edf3)
+### Visualize the data using a bar chart
+![image](https://github.com/user-attachments/assets/88800933-22d2-4a7c-b3ee-e00f55406103)
+
+
+
 
 
 
