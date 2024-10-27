@@ -21,19 +21,6 @@ but Mac has less efficiency precentage that we should focus.
 ### Identify main downtime factors
 Create a "Downtime" column in the "Downtime factors" tab that sums the downtime for each factor from the "Line downtime" tab.
 Create a "Pareto" column that calculates the % running total of downtime for each factor.
-Downtime	Pareto
-332	24%
-254	42%
-225	58%
-160	70%
-145	80%
-74	86%
-57	90%
-49	93%
-42	96%
-33	99%
-17	100%
-0	100%
 ![image](https://github.com/user-attachments/assets/85704888-0166-4f62-9519-ba4273f074df)
 
 Use a Pareto chart to identify the main factors for downtime in the production line.
