@@ -38,60 +38,20 @@ Use a Pareto chart to identify the main factors for downtime in the production l
 ![image](https://github.com/user-attachments/assets/b5e06857-8081-42f1-95ca-caa0a141451a)
 ![image](https://github.com/user-attachments/assets/652fc623-10c9-49e8-b741-0d70374b7bd2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### I have calculate the total downtime by operator for each of the main factors identified.
+### Calculate downtime by operator & factor
+I have calculate the total downtime by operator for each of the main factors identified.
 I have created the operators data's as the rows and the main downtime factors as the columns.
 Created Operator" column to the "Line downtime tab" and look up the values for each batch.
 Create a total downtime for each operator by factor.
-Create a Chart and formatting to make a recommendation.
+	6	7	4	2	8
+	Machine adjustment	Machine failure	Inventory shortage	Batch change	Batch coding error
+Charlie	118	85	17	10	44
+Dee	79	36	85	20	30
+Dennis	120	88	43	0	24
+Mac	15	45	80	130	47
+![image](https://github.com/user-attachments/assets/c16f7260-9daf-4b29-88eb-a2d26c8a145e)
+
+## Formatting to make a recommendation.
+![image](https://github.com/user-attachments/assets/3f0f233a-ac39-4092-a55d-ee30b80e6f26)
+
+
