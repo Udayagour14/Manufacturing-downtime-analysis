@@ -1,5 +1,5 @@
 # Manufacturing-downtime-analysis
-Productivity &amp; downtime analysis for a soda bottling production line.
+Productivity &amp; downtime analysis for a production line.
 ### calculate the efficiency for a production line and break it down by operator.
 Create a new "Batch time" column in the "Line Productivity" tab that calculates the minutes between the "Start time" and "End time".
 Create another new "Min batch time" column by looking up the value from the "Products" tab.
