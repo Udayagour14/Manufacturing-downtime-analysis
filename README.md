@@ -13,6 +13,32 @@ Grand Total	64%
 ![image](https://github.com/user-attachments/assets/1fcef8ea-2c37-4e12-8e71-32bd31a5edf3)
 ### Visualize the data using a bar chart
 ![image](https://github.com/user-attachments/assets/88800933-22d2-4a7c-b3ee-e00f55406103)
+*As i conclude that Overall efficiency is around 64% 
+but Mac has less efficiency precentage that we should focus.
+![image](https://github.com/user-attachments/assets/505233ec-72eb-4469-96f9-0547c19d76d8)
+### Identify main downtime factors
+Create a "Downtime" column in the "Downtime factors" tab that sums the downtime for each factor from the "Line downtime" tab.
+Create a "Pareto" column that calculates the % running total of downtime for each factor.
+Downtime	Pareto
+332	24%
+254	42%
+225	58%
+160	70%
+145	80%
+74	86%
+57	90%
+49	93%
+42	96%
+33	99%
+17	100%
+0	100%
+![image](https://github.com/user-attachments/assets/85704888-0166-4f62-9519-ba4273f074df)
+
+Use a Pareto chart to identify the main factors for downtime in the production line.
+![image](https://github.com/user-attachments/assets/b5e06857-8081-42f1-95ca-caa0a141451a)
+![image](https://github.com/user-attachments/assets/652fc623-10c9-49e8-b741-0d70374b7bd2)
+
+
 
 
 
